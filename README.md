@@ -2,7 +2,7 @@
 <h3 align="left">A Software Engineer in Sigma, Ukraine.</h3>
 
 - 🔭 I’m currently working on Artificial intelligence [platform](https://foundry.ai/curia-ai) in [Foundry.ai](https://foundry.ai/)
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently learning **Databases**
 
 - 🤝 I’m looking to collaborate on anything.
 
