@@ -48,11 +48,11 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/murkot0833/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="murkot0833" height="30" width="30" /></a>&nbsp;&nbsp;
-<a href="https://t.me/murkot0833">
+<a href="https://t.me/r_golubov">
   <img align="left" alt="Roman's Telegram" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>&nbsp;&nbsp;
 <a href="mailto:drupalspec@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/murkot0833" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="murkot0833" height="30" width="30" /></a>
+<a href="https://instagram.com/golubov_rb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="murkot0833" height="30" width="30" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roman-golubov" alt="roman-golubov" /> </p>
