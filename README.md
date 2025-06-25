@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋🏼, I'm Roman</h1>
-<h3 align="left">A Software Engineer in Sigma, Ukraine.</h3>
+<h3 align="left">A Senior Software Engineer.</h3>
 
 - 🔭 I’m currently working on Artificial intelligence platform
 - 🌱 I’m currently learning **Databases**
 
 - 🤝 I’m looking to collaborate on anything.
 
-- 💬 Ask me about **JavaScript, VueJS, EmberJS, Webpack, PHP, HTML/CSS, UI/UX, GIT, WordPress, Coding Standards, and Hiking**
+- 💬 Ask me about **JavaScript, React, VueJS, EmberJS, Webpack, PHP, HTML/CSS, UI/UX, GIT, WordPress, Coding Standards, and Hiking**
 
 - ⚡ **My hobbies:** I love traveling and some of sport activities 🚴🎣🏄⛰️🪂🏋🏻‍♀️
 
